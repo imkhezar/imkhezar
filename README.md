@@ -1,6 +1,7 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 ### Hi there 👋
+My primary goal is to apply my technical expertise to ensure the production, delivery of products and services that meet client specifications along with team. With strong personal knowledge, skills, and experience in software engineering, I am positive that this goal can be achieved. My experience as a top-rated freelancer in categories of web mobile and software development enhanced my abilities in communication, designing, implementation, testing, and upgrading websites and software. One of my objectives is to keep updated with the latest it trends and technologies. I am confident that if given the opportunity, I can be a useful talent to the organizations.
 
 <!--
 **imkhezar/imkhezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
